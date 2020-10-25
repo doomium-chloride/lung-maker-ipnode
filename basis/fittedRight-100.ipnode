@@ -1,0 +1,2116 @@
+ CMISS Version 1.21 ipnode File Version 2
+ Heading: fittedRight
+
+ The number of nodes is [  50]:   50 
+
+ Number of coordinates [ 3]:  3
+ Do you want prompting for different versions of nj=1 [N]? Y
+ Do you want prompting for different versions of nj=2 [N]? Y
+ Do you want prompting for different versions of nj=3 [N]? Y
+ The number of derivatives for coordinate 1 is [0]: 3 
+ The number of derivatives for coordinate 2 is [0]: 3 
+ The number of derivatives for coordinate 3 is [0]: 3 
+
+ Node number [    1]:     1
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   144.96100381165922
+ The derivative wrt direction 1 is [ 0.00000E+00]: -1.438963048353292251e+01
+ The derivative wrt direction 2 is [ 0.00000E+00]: 8.667799804251890450e+00
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 1.091257413222101329e-18
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   144.96100381165922
+ The derivative wrt direction 1 is [ 0.00000E+00]: -43.11882853648423
+ The derivative wrt direction 2 is [ 0.00000E+00]: 8.66779980425189
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   144.96100381165922
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.38963048353292
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   144.96100381165922
+ The derivative wrt direction 1 is [ 0.00000E+00]: -43.11882853648423
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   144.96100381165922
+ The derivative wrt direction 1 is [ 0.00000E+00]: -31.921655643122413
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   86.82543419522987
+ The derivative wrt direction 1 is [ 0.00000E+00]: 22.840365344182143
+ The derivative wrt direction 2 is [ 0.00000E+00]: -6.834895657884643
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: -3.2041006396766083e-19
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   86.82543419522987
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.059420046540705
+ The derivative wrt direction 2 is [ 0.00000E+00]: -6.834895657884643
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   86.82543419522987
+ The derivative wrt direction 1 is [ 0.00000E+00]: 22.840365344182143
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   86.82543419522987
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.059420046540705
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   86.82543419522987
+ The derivative wrt direction 1 is [ 0.00000E+00]: 7.693616551159177
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -202.57606963984767
+ The derivative wrt direction 1 is [ 0.00000E+00]: 2.6183990715415364
+ The derivative wrt direction 2 is [ 0.00000E+00]: 38.460583761518365
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 1.0971499471317591e-18
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -202.57606963984767
+ The derivative wrt direction 1 is [ 0.00000E+00]: -16.65047338347372
+ The derivative wrt direction 2 is [ 0.00000E+00]: 38.460583761518365
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -202.57606963984767
+ The derivative wrt direction 1 is [ 0.00000E+00]: 2.6183990715415364
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -202.57606963984767
+ The derivative wrt direction 1 is [ 0.00000E+00]: -16.65047338347372
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -202.57606963984767
+ The derivative wrt direction 1 is [ 0.00000E+00]: -3.7416549607003033
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    2]:     2
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   133.12420993891425
+ The derivative wrt direction 1 is [ 0.00000E+00]: -11.034746285648865
+ The derivative wrt direction 2 is [ 0.00000E+00]: -8.678560801212436
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   133.12420993891425
+ The derivative wrt direction 1 is [ 0.00000E+00]: -11.034746285648865
+ The derivative wrt direction 2 is [ 0.00000E+00]: -17.701411449740835
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   109.31777043813325
+ The derivative wrt direction 1 is [ 0.00000E+00]: 23.352145415010146
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.76798934034226
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   109.31777043813325
+ The derivative wrt direction 1 is [ 0.00000E+00]: 23.352145415010146
+ The derivative wrt direction 2 is [ 0.00000E+00]: -14.552906709519897
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -201.79030261393444
+ The derivative wrt direction 1 is [ 0.00000E+00]: 1.3188262494089849
+ The derivative wrt direction 2 is [ 0.00000E+00]: 46.51139714824214
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -201.79030261393444
+ The derivative wrt direction 1 is [ 0.00000E+00]: 1.3188262494089849
+ The derivative wrt direction 2 is [ 0.00000E+00]: -3.727375768480592
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    3]:     3
+ The number of versions for nj=1 is [1]: 3
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   127.7577497649708
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.110781519650969
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.8414100519573866
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   127.7577497649708
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.110781519650969
+ The derivative wrt direction 2 is [ 0.00000E+00]: -32.036007227539656
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   127.7577497649708
+ The derivative wrt direction 1 is [ 0.00000E+00]: -32.036007227539656
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.8414100519573866
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 3
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   130.72421526185803
+ The derivative wrt direction 1 is [ 0.00000E+00]: 26.468413584333202
+ The derivative wrt direction 2 is [ 0.00000E+00]: 33.64586214288684
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   130.72421526185803
+ The derivative wrt direction 1 is [ 0.00000E+00]: 26.468413584333202
+ The derivative wrt direction 2 is [ 0.00000E+00]: -15.533668035119332
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   130.72421526185803
+ The derivative wrt direction 1 is [ 0.00000E+00]: -15.533668035119332
+ The derivative wrt direction 2 is [ 0.00000E+00]: 33.64586214288684
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 3
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -201.42009865025403
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.1197854161400027
+ The derivative wrt direction 2 is [ 0.00000E+00]: 48.86053077748082
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -201.42009865025403
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.1197854161400027
+ The derivative wrt direction 2 is [ 0.00000E+00]: -3.9045357818919215
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -201.42009865025403
+ The derivative wrt direction 1 is [ 0.00000E+00]: -3.9045357818919215
+ The derivative wrt direction 2 is [ 0.00000E+00]: 48.86053077748082
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    4]:     4
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   131.23882732257007
+ The derivative wrt direction 1 is [ 0.00000E+00]: 23.848791950767087
+ The derivative wrt direction 2 is [ 0.00000E+00]: 15.846975218074483
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   131.23882732257007
+ The derivative wrt direction 1 is [ 0.00000E+00]: 23.848791950767087
+ The derivative wrt direction 2 is [ 0.00000E+00]: -48.97330041447286
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   158.79125003712767
+ The derivative wrt direction 1 is [ 0.00000E+00]: 20.4194386507223
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.907033605045581
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   158.79125003712767
+ The derivative wrt direction 1 is [ 0.00000E+00]: 20.4194386507223
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.201790172172567
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -209.68389777930508
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.043275444277612
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.04595323480916
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -209.68389777930508
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.043275444277612
+ The derivative wrt direction 2 is [ 0.00000E+00]: 5.328798793690927
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    5]:     5
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   160.86582181549093
+ The derivative wrt direction 1 is [ 0.00000E+00]: -7.688592750800806
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.468853193840269
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   160.86582181549093
+ The derivative wrt direction 1 is [ 0.00000E+00]: -7.688592750800806
+ The derivative wrt direction 2 is [ 0.00000E+00]: -80.57332880021062
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   170.88288013295048
+ The derivative wrt direction 1 is [ 0.00000E+00]: 37.724878210551005
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.441172923197929
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   170.88288013295048
+ The derivative wrt direction 1 is [ 0.00000E+00]: 37.724878210551005
+ The derivative wrt direction 2 is [ 0.00000E+00]: 30.206334664567528
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -236.11742078330113
+ The derivative wrt direction 1 is [ 0.00000E+00]: -38.77178936232991
+ The derivative wrt direction 2 is [ 0.00000E+00]: 79.20449042381686
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -236.11742078330113
+ The derivative wrt direction 1 is [ 0.00000E+00]: -38.77178936232991
+ The derivative wrt direction 2 is [ 0.00000E+00]: 14.187596915439535
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    6]:     6
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   128.91087740725854
+ The derivative wrt direction 1 is [ 0.00000E+00]: -33.25713812147332
+ The derivative wrt direction 2 is [ 0.00000E+00]: 4.411526084347497
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   128.91087740725854
+ The derivative wrt direction 1 is [ 0.00000E+00]: -33.25713812147332
+ The derivative wrt direction 2 is [ 0.00000E+00]: -49.18675265679857
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   219.7655150184416
+ The derivative wrt direction 1 is [ 0.00000E+00]: 55.14965337840723
+ The derivative wrt direction 2 is [ 0.00000E+00]: 38.56879769211702
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   219.7655150184416
+ The derivative wrt direction 1 is [ 0.00000E+00]: 55.14965337840723
+ The derivative wrt direction 2 is [ 0.00000E+00]: 19.590046974686974
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -269.15128294927393
+ The derivative wrt direction 1 is [ 0.00000E+00]: -27.09417130169221
+ The derivative wrt direction 2 is [ 0.00000E+00]: 92.44543670404865
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -269.15128294927393
+ The derivative wrt direction 1 is [ 0.00000E+00]: -27.09417130169221
+ The derivative wrt direction 2 is [ 0.00000E+00]: 37.714661061626366
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    7]:     7
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   73.79162200564338
+ The derivative wrt direction 1 is [ 0.00000E+00]: -49.25898357691427
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.425375635542091
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   73.79162200564338
+ The derivative wrt direction 1 is [ 0.00000E+00]: 49.25898357691427
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.425375635542091
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   73.79162200564338
+ The derivative wrt direction 1 is [ 0.00000E+00]: -49.25898357691427
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   73.79162200564338
+ The derivative wrt direction 1 is [ 0.00000E+00]: 49.25898357691427
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   73.79162200564338
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.694425050169621
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   244.64910886371902
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.220733464575793
+ The derivative wrt direction 2 is [ 0.00000E+00]: 31.970389993885146
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   244.64910886371902
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.220733464575793
+ The derivative wrt direction 2 is [ 0.00000E+00]: 31.970389993885146
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   244.64910886371902
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.220733464575793
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   244.64910886371902
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.220733464575793
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   244.64910886371902
+ The derivative wrt direction 1 is [ 0.00000E+00]: 15.714005044489856
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -282.05021197929375
+ The derivative wrt direction 1 is [ 0.00000E+00]: -4.643079115896507
+ The derivative wrt direction 2 is [ 0.00000E+00]: 106.1364512213499
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -282.05021197929375
+ The derivative wrt direction 1 is [ 0.00000E+00]: 4.643079115896507
+ The derivative wrt direction 2 is [ 0.00000E+00]: 106.1364512213499
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -282.05021197929375
+ The derivative wrt direction 1 is [ 0.00000E+00]: -4.643079115896507
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -282.05021197929375
+ The derivative wrt direction 1 is [ 0.00000E+00]: 4.643079115896507
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -282.05021197929375
+ The derivative wrt direction 1 is [ 0.00000E+00]: -39.64863580813646
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.0
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    8]:     8
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   117.79257528022764
+ The derivative wrt direction 1 is [ 0.00000E+00]: -27.04263297234156
+ The derivative wrt direction 2 is [ 0.00000E+00]: -17.223719206564283
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   117.79257528022764
+ The derivative wrt direction 1 is [ 0.00000E+00]: -27.04263297234156
+ The derivative wrt direction 2 is [ 0.00000E+00]: 17.223719206564283
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   96.17007859891015
+ The derivative wrt direction 1 is [ 0.00000E+00]: 12.567501968168374
+ The derivative wrt direction 2 is [ 0.00000E+00]: -15.03845308799705
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   96.17007859891015
+ The derivative wrt direction 1 is [ 0.00000E+00]: 12.567501968168374
+ The derivative wrt direction 2 is [ 0.00000E+00]: 15.03845308799705
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -206.2202764190377
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.1661942337852413
+ The derivative wrt direction 2 is [ 0.00000E+00]: -7.5954355436183985
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -206.2202764190377
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.1661942337852413
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.5954355436183985
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [    9]:     9
+ The number of versions for nj=1 is [1]: 4
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   95.0060892641763
+ The derivative wrt direction 1 is [ 0.00000E+00]: -27.60496164225192
+ The derivative wrt direction 2 is [ 0.00000E+00]: -30.735683068165944
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   95.0060892641763
+ The derivative wrt direction 1 is [ 0.00000E+00]: -27.60496164225192
+ The derivative wrt direction 2 is [ 0.00000E+00]: 30.735683068165944
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   95.0060892641763
+ The derivative wrt direction 1 is [ 0.00000E+00]: -30.735683068165944
+ The derivative wrt direction 2 is [ 0.00000E+00]: -18.54202801054381
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   95.0060892641763
+ The derivative wrt direction 1 is [ 0.00000E+00]: 30.735683068165944
+ The derivative wrt direction 2 is [ 0.00000E+00]: -18.54202801054381
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 4
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   110.7395012588753
+ The derivative wrt direction 1 is [ 0.00000E+00]: 25.09201447213511
+ The derivative wrt direction 2 is [ 0.00000E+00]: -20.278425491901647
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   110.7395012588753
+ The derivative wrt direction 1 is [ 0.00000E+00]: 25.09201447213511
+ The derivative wrt direction 2 is [ 0.00000E+00]: 20.278425491901647
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   110.7395012588753
+ The derivative wrt direction 1 is [ 0.00000E+00]: -20.278425491901647
+ The derivative wrt direction 2 is [ 0.00000E+00]: 34.47377072345337
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   110.7395012588753
+ The derivative wrt direction 1 is [ 0.00000E+00]: 20.278425491901647
+ The derivative wrt direction 2 is [ 0.00000E+00]: 34.47377072345337
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 4
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -206.50041330767294
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.4217283513130567
+ The derivative wrt direction 2 is [ 0.00000E+00]: -14.755404477822047
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -206.50041330767294
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.4217283513130567
+ The derivative wrt direction 2 is [ 0.00000E+00]: 14.755404477822047
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -206.50041330767294
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.755404477822047
+ The derivative wrt direction 2 is [ 0.00000E+00]: 45.73251977362669
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -206.50041330767294
+ The derivative wrt direction 1 is [ 0.00000E+00]: 14.755404477822047
+ The derivative wrt direction 2 is [ 0.00000E+00]: 45.73251977362669
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   10]:    10
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   71.9531299348879
+ The derivative wrt direction 1 is [ 0.00000E+00]: -4.355621896544692
+ The derivative wrt direction 2 is [ 0.00000E+00]: -49.09363766956624
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   71.9531299348879
+ The derivative wrt direction 1 is [ 0.00000E+00]: -4.355621896544692
+ The derivative wrt direction 2 is [ 0.00000E+00]: 49.09363766956624
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   146.0670883850665
+ The derivative wrt direction 1 is [ 0.00000E+00]: 40.13361575792466
+ The derivative wrt direction 2 is [ 0.00000E+00]: -15.308031909310413
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   146.0670883850665
+ The derivative wrt direction 1 is [ 0.00000E+00]: 40.13361575792466
+ The derivative wrt direction 2 is [ 0.00000E+00]: 15.308031909310413
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -210.38825162384512
+ The derivative wrt direction 1 is [ 0.00000E+00]: -8.369366684101676
+ The derivative wrt direction 2 is [ 0.00000E+00]: -17.910298121218467
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -210.38825162384512
+ The derivative wrt direction 1 is [ 0.00000E+00]: -8.369366684101676
+ The derivative wrt direction 2 is [ 0.00000E+00]: 17.910298121218467
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   11]:    11
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   75.1606783819011
+ The derivative wrt direction 1 is [ 0.00000E+00]: 8.239047529908019
+ The derivative wrt direction 2 is [ 0.00000E+00]: -72.7819988241715
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   75.1606783819011
+ The derivative wrt direction 1 is [ 0.00000E+00]: 8.239047529908019
+ The derivative wrt direction 2 is [ 0.00000E+00]: 72.7819988241715
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   186.8457898209083
+ The derivative wrt direction 1 is [ 0.00000E+00]: 43.79571325860291
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.0816811260332546
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   186.8457898209083
+ The derivative wrt direction 1 is [ 0.00000E+00]: 43.79571325860291
+ The derivative wrt direction 2 is [ 0.00000E+00]: -3.0816811260332546
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -224.9868017764068
+ The derivative wrt direction 1 is [ 0.00000E+00]: -22.534481757175
+ The derivative wrt direction 2 is [ 0.00000E+00]: -11.08212223982177
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -224.9868017764068
+ The derivative wrt direction 1 is [ 0.00000E+00]: -22.534481757175
+ The derivative wrt direction 2 is [ 0.00000E+00]: 11.08212223982177
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   12]:    12
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   76.43518980000258
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.805443114535978
+ The derivative wrt direction 2 is [ 0.00000E+00]: -55.09041567685633
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   76.43518980000258
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.805443114535978
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.09041567685633
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   224.8068225974441
+ The derivative wrt direction 1 is [ 0.00000E+00]: 32.446865629599365
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.0363390991331518
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   224.8068225974441
+ The derivative wrt direction 1 is [ 0.00000E+00]: 32.446865629599365
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.0363390991331518
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -250.4252618390778
+ The derivative wrt direction 1 is [ 0.00000E+00]: -28.303375924719468
+ The derivative wrt direction 2 is [ 0.00000E+00]: -4.318586359950593
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -250.4252618390778
+ The derivative wrt direction 1 is [ 0.00000E+00]: -28.303375924719468
+ The derivative wrt direction 2 is [ 0.00000E+00]: 4.318586359950593
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   13]:    13
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   100.33918658037071
+ The derivative wrt direction 1 is [ 0.00000E+00]: -43.532254281992415
+ The derivative wrt direction 2 is [ 0.00000E+00]: -31.153203886493465
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   100.33918658037071
+ The derivative wrt direction 1 is [ 0.00000E+00]: -43.532254281992415
+ The derivative wrt direction 2 is [ 0.00000E+00]: 14.744115896683354
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   80.57652341055059
+ The derivative wrt direction 1 is [ 0.00000E+00]: -1.8877782893956303
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.886162139342885
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   80.57652341055059
+ The derivative wrt direction 1 is [ 0.00000E+00]: -1.8877782893956303
+ The derivative wrt direction 2 is [ 0.00000E+00]: 16.242526395187987
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -218.36328600708208
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.078322438923081
+ The derivative wrt direction 2 is [ 0.00000E+00]: 54.93569912819299
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -218.36328600708208
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.078322438923081
+ The derivative wrt direction 2 is [ 0.00000E+00]: 18.326597388855077
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   14]:    14
+ The number of versions for nj=1 is [1]: 3
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   60.96220366981272
+ The derivative wrt direction 1 is [ 0.00000E+00]: -37.23070900117287
+ The derivative wrt direction 2 is [ 0.00000E+00]: -50.6337318121123
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   60.96220366981272
+ The derivative wrt direction 1 is [ 0.00000E+00]: -37.23070900117287
+ The derivative wrt direction 2 is [ 0.00000E+00]: 28.661381112552014
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   60.96220366981272
+ The derivative wrt direction 1 is [ 0.00000E+00]: 28.661381112552014
+ The derivative wrt direction 2 is [ 0.00000E+00]: -50.6337318121123
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 3
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   88.7318999263447
+ The derivative wrt direction 1 is [ 0.00000E+00]: 22.153768321711688
+ The derivative wrt direction 2 is [ 0.00000E+00]: 30.77970932496759
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   88.7318999263447
+ The derivative wrt direction 1 is [ 0.00000E+00]: 22.153768321711688
+ The derivative wrt direction 2 is [ 0.00000E+00]: 20.588830430962908
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   88.7318999263447
+ The derivative wrt direction 1 is [ 0.00000E+00]: 20.588830430962908
+ The derivative wrt direction 2 is [ 0.00000E+00]: 30.77970932496759
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 3
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -234.42639760713502
+ The derivative wrt direction 1 is [ 0.00000E+00]: -18.004438429849483
+ The derivative wrt direction 2 is [ 0.00000E+00]: 69.85444537529081
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -234.42639760713502
+ The derivative wrt direction 1 is [ 0.00000E+00]: -18.004438429849483
+ The derivative wrt direction 2 is [ 0.00000E+00]: 42.33983442935264
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -234.42639760713502
+ The derivative wrt direction 1 is [ 0.00000E+00]: 42.33983442935264
+ The derivative wrt direction 2 is [ 0.00000E+00]: 69.85444537529081
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   15]:    15
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   30.220595399241432
+ The derivative wrt direction 1 is [ 0.00000E+00]: -23.488275031443518
+ The derivative wrt direction 2 is [ 0.00000E+00]: -16.081260624486507
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   30.220595399241432
+ The derivative wrt direction 1 is [ 0.00000E+00]: -23.488275031443518
+ The derivative wrt direction 2 is [ 0.00000E+00]: 23.74674916577484
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   122.39848834902948
+ The derivative wrt direction 1 is [ 0.00000E+00]: 47.82653796740428
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.448896489807018
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   122.39848834902948
+ The derivative wrt direction 1 is [ 0.00000E+00]: 47.82653796740428
+ The derivative wrt direction 2 is [ 0.00000E+00]: 27.890378760004843
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -251.32468752182194
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.192972287581233
+ The derivative wrt direction 2 is [ 0.00000E+00]: 79.72164970189915
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -251.32468752182194
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.192972287581233
+ The derivative wrt direction 2 is [ 0.00000E+00]: 68.04028603943063
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   16]:    16
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   18.309651709955176
+ The derivative wrt direction 1 is [ 0.00000E+00]: 6.2995085148118735
+ The derivative wrt direction 2 is [ 0.00000E+00]: -13.067933700669924
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   18.309651709955176
+ The derivative wrt direction 1 is [ 0.00000E+00]: 6.2995085148118735
+ The derivative wrt direction 2 is [ 0.00000E+00]: 29.298639006192037
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   172.68763263878714
+ The derivative wrt direction 1 is [ 0.00000E+00]: 56.38498393202894
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.385389160741543
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   172.68763263878714
+ The derivative wrt direction 1 is [ 0.00000E+00]: 56.38498393202894
+ The derivative wrt direction 2 is [ 0.00000E+00]: 25.216004010156038
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -261.504752277872
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.310278545803218
+ The derivative wrt direction 2 is [ 0.00000E+00]: 87.58652822611515
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -261.504752277872
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.310278545803218
+ The derivative wrt direction 2 is [ 0.00000E+00]: 61.381027346976346
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   17]:    17
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   33.053369196417584
+ The derivative wrt direction 1 is [ 0.00000E+00]: 30.664434156159032
+ The derivative wrt direction 2 is [ 0.00000E+00]: -13.677768329707883
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   33.053369196417584
+ The derivative wrt direction 1 is [ 0.00000E+00]: 30.664434156159032
+ The derivative wrt direction 2 is [ 0.00000E+00]: 41.22986067231684
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   218.78151863552722
+ The derivative wrt direction 1 is [ 0.00000E+00]: 38.25401012311108
+ The derivative wrt direction 2 is [ 0.00000E+00]: 19.592361192944164
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   218.78151863552722
+ The derivative wrt direction 1 is [ 0.00000E+00]: 38.25401012311108
+ The derivative wrt direction 2 is [ 0.00000E+00]: 15.801652621660713
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -274.6570764439775
+ The derivative wrt direction 1 is [ 0.00000E+00]: -11.692284408817809
+ The derivative wrt direction 2 is [ 0.00000E+00]: 95.37958834910253
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -274.6570764439775
+ The derivative wrt direction 1 is [ 0.00000E+00]: -11.692284408817809
+ The derivative wrt direction 2 is [ 0.00000E+00]: 42.72660867722035
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   18]:    18
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   154.5287706979076
+ The derivative wrt direction 1 is [ 0.00000E+00]: -28.340725908961083
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.440193085568748
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   154.5287706979076
+ The derivative wrt direction 1 is [ 0.00000E+00]: -79.27068235659083
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.440193085568748
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   87.3314341753651
+ The derivative wrt direction 1 is [ 0.00000E+00]: 33.604473207015126
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.4839649537861204
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   87.3314341753651
+ The derivative wrt direction 1 is [ 0.00000E+00]: -15.35917306233017
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.4839649537861204
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -170.9532502572122
+ The derivative wrt direction 1 is [ 0.00000E+00]: 8.61647455682627
+ The derivative wrt direction 2 is [ 0.00000E+00]: 34.959686200704546
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -170.9532502572122
+ The derivative wrt direction 1 is [ 0.00000E+00]: -1.413109706654871
+ The derivative wrt direction 2 is [ 0.00000E+00]: 34.959686200704546
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   19]:    19
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   128.60606648305685
+ The derivative wrt direction 1 is [ 0.00000E+00]: -17.340016820974732
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.4908218952711267
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   120.33325125719959
+ The derivative wrt direction 1 is [ 0.00000E+00]: 41.26281072152812
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.625533666692348
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -159.48711167954616
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.719028861172982
+ The derivative wrt direction 2 is [ 0.00000E+00]: 43.64472271740305
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   20]:    20
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   134.41450409370537
+ The derivative wrt direction 1 is [ 0.00000E+00]: 27.19574767088765
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.520614780262179
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   134.41450409370537
+ The derivative wrt direction 1 is [ 0.00000E+00]: 27.19574767088765
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.3704925275488613
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   134.41450409370537
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.5206147802621777
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   134.41450409370537
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.3704925275488613
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   134.41450409370537
+ The derivative wrt direction 1 is [ 0.00000E+00]: -53.108124152539354
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.5206147802621777
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   162.81053823148892
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.89175159607212
+ The derivative wrt direction 2 is [ 0.00000E+00]: 26.42494915376076
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   162.81053823148892
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.89175159607212
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.405439839991933
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   162.81053823148892
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 26.42494915376076
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   162.81053823148892
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.405439839991933
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   162.81053823148892
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.79698826113464
+ The derivative wrt direction 2 is [ 0.00000E+00]: 26.42494915376076
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -156.02477206288688
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.5610997848178019
+ The derivative wrt direction 2 is [ 0.00000E+00]: 45.44385473893056
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -156.02477206288688
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.5610997848178024
+ The derivative wrt direction 2 is [ 0.00000E+00]: 51.26552403985831
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -156.02477206288688
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 45.44385473893056
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -156.02477206288688
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 51.26552403985831
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -156.02477206288688
+ The derivative wrt direction 1 is [ 0.00000E+00]: -6.827233963735946
+ The derivative wrt direction 2 is [ 0.00000E+00]: 45.44385473893056
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   21]:    21
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   158.67662195923006
+ The derivative wrt direction 1 is [ 0.00000E+00]: 2.204937183012561
+ The derivative wrt direction 2 is [ 0.00000E+00]: -6.960822819170144
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   189.344552065744
+ The derivative wrt direction 1 is [ 0.00000E+00]: 35.259397866906895
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.09497435462012
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -162.30097233509704
+ The derivative wrt direction 1 is [ 0.00000E+00]: -9.68299985995842
+ The derivative wrt direction 2 is [ 0.00000E+00]: 64.00113549984165
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   22]:    22
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   129.49990144119081
+ The derivative wrt direction 1 is [ 0.00000E+00]: -35.97774214561508
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.408189781230607
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   244.22376557630565
+ The derivative wrt direction 1 is [ 0.00000E+00]: 51.27134319158412
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.79078411918352
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -170.36436332499943
+ The derivative wrt direction 1 is [ 0.00000E+00]: -3.649426727380945
+ The derivative wrt direction 2 is [ 0.00000E+00]: 97.9489364527119
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   23]:    23
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   75.83223586197212
+ The derivative wrt direction 1 is [ 0.00000E+00]: -49.93686651990908
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.495256790243404
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   75.83223586197212
+ The derivative wrt direction 1 is [ 0.00000E+00]: 49.93686651990908
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.495256790243404
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   261.6973347361837
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.481282055722415
+ The derivative wrt direction 2 is [ 0.00000E+00]: 9.083246792365136
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   261.6973347361837
+ The derivative wrt direction 1 is [ 0.00000E+00]: 13.481282055722415
+ The derivative wrt direction 2 is [ 0.00000E+00]: 9.083246792365136
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -172.8848013146217
+ The derivative wrt direction 1 is [ 0.00000E+00]: -4.249657106129624
+ The derivative wrt direction 2 is [ 0.00000E+00]: 107.69278879516128
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -172.8848013146217
+ The derivative wrt direction 1 is [ 0.00000E+00]: 4.249657106129624
+ The derivative wrt direction 2 is [ 0.00000E+00]: 107.69278879516128
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   24]:    24
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   80.50342212388773
+ The derivative wrt direction 1 is [ 0.00000E+00]: -50.23156571244149
+ The derivative wrt direction 2 is [ 0.00000E+00]: -7.8545815693151395
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   80.50342212388773
+ The derivative wrt direction 1 is [ 0.00000E+00]: 50.23156571244149
+ The derivative wrt direction 2 is [ 0.00000E+00]: -7.8545815693151395
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   148.7340274901458
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.179436532081336
+ The derivative wrt direction 2 is [ 0.00000E+00]: 42.38865542656449
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   148.7340274901458
+ The derivative wrt direction 1 is [ 0.00000E+00]: 13.179436532081336
+ The derivative wrt direction 2 is [ 0.00000E+00]: 42.38865542656449
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -158.92359960335918
+ The derivative wrt direction 1 is [ 0.00000E+00]: -8.132047963111962
+ The derivative wrt direction 2 is [ 0.00000E+00]: 51.334755521264675
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -158.92359960335918
+ The derivative wrt direction 1 is [ 0.00000E+00]: 8.132047963111962
+ The derivative wrt direction 2 is [ 0.00000E+00]: 51.334755521264675
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   25]:    25
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   78.3650171842756
+ The derivative wrt direction 1 is [ 0.00000E+00]: -70.72264112823926
+ The derivative wrt direction 2 is [ 0.00000E+00]: -18.122687697269214
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   84.86648247511091
+ The derivative wrt direction 1 is [ 0.00000E+00]: 25.576674403837195
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.578457549743343
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -167.97530030266003
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.1253830730296106
+ The derivative wrt direction 2 is [ 0.00000E+00]: 49.881513709416254
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   26]:    26
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   29.07664027600085
+ The derivative wrt direction 1 is [ 0.00000E+00]: -18.356129362504543
+ The derivative wrt direction 2 is [ 0.00000E+00]: -9.932426853246568
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   29.07664027600085
+ The derivative wrt direction 1 is [ 0.00000E+00]: -18.356129362504543
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.7676864893439195
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   29.07664027600085
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: -9.932426853246568
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   29.07664027600085
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.7676864893439195
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   29.07664027600085
+ The derivative wrt direction 1 is [ 0.00000E+00]: 49.48764817490468
+ The derivative wrt direction 2 is [ 0.00000E+00]: -9.932426853246568
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   136.55729548556477
+ The derivative wrt direction 1 is [ 0.00000E+00]: 54.43076579057312
+ The derivative wrt direction 2 is [ 0.00000E+00]: 50.503781143351446
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   136.55729548556477
+ The derivative wrt direction 1 is [ 0.00000E+00]: 54.43076579057312
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.801758776632042
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   136.55729548556477
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 50.503781143351446
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   136.55729548556477
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.801758776632042
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   136.55729548556477
+ The derivative wrt direction 1 is [ 0.00000E+00]: 7.623232713894626
+ The derivative wrt direction 2 is [ 0.00000E+00]: 50.503781143351446
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -169.3493550201637
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.7417962950500705
+ The derivative wrt direction 2 is [ 0.00000E+00]: 61.07332358966794
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -169.3493550201637
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.7417962950500705
+ The derivative wrt direction 2 is [ 0.00000E+00]: 73.24462095788378
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -169.3493550201637
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 61.07332358966794
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -169.3493550201637
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 73.24462095788378
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -169.3493550201637
+ The derivative wrt direction 1 is [ 0.00000E+00]: 15.180321831064953
+ The derivative wrt direction 2 is [ 0.00000E+00]: 61.07332358966794
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   27]:    27
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   22.53240039672638
+ The derivative wrt direction 1 is [ 0.00000E+00]: 4.8865362012138895
+ The derivative wrt direction 2 is [ 0.00000E+00]: 8.180299435391513
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   183.87854015466127
+ The derivative wrt direction 1 is [ 0.00000E+00]: 50.1357038213707
+ The derivative wrt direction 2 is [ 0.00000E+00]: 4.261029611819903
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -175.9049849084011
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.6206163520515866
+ The derivative wrt direction 2 is [ 0.00000E+00]: 69.36529814379617
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   28]:    28
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   38.087570400559095
+ The derivative wrt direction 1 is [ 0.00000E+00]: 27.769210961267692
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.34485107186807
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   231.49682984838907
+ The derivative wrt direction 1 is [ 0.00000E+00]: 40.15166053467552
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.4831945982314187
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -176.71297519359908
+ The derivative wrt direction 1 is [ 0.00000E+00]: 3.0335517432779975
+ The derivative wrt direction 2 is [ 0.00000E+00]: 87.92279223187225
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   29]:    29
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   163.74665601566653
+ The derivative wrt direction 1 is [ 0.00000E+00]: -29.456705405871084
+ The derivative wrt direction 2 is [ 0.00000E+00]: 13.234669787444872
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   163.74665601566653
+ The derivative wrt direction 1 is [ 0.00000E+00]: -105.32078905695286
+ The derivative wrt direction 2 is [ 0.00000E+00]: 13.234669787444872
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   163.74665601566653
+ The derivative wrt direction 1 is [ 0.00000E+00]: -29.456705405871084
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.8570994277679334
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   163.74665601566653
+ The derivative wrt direction 1 is [ 0.00000E+00]: -105.32078905695286
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.8570994277679334
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   163.74665601566653
+ The derivative wrt direction 1 is [ 0.00000E+00]: -64.91834207836506
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.8570994277679334
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   90.24027328951027
+ The derivative wrt direction 1 is [ 0.00000E+00]: 44.401533531292365
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.651651512870896
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   90.24027328951027
+ The derivative wrt direction 1 is [ 0.00000E+00]: -15.089781957511898
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.651651512870896
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   90.24027328951027
+ The derivative wrt direction 1 is [ 0.00000E+00]: 44.401533531292365
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.04546210179256
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   90.24027328951027
+ The derivative wrt direction 1 is [ 0.00000E+00]: -15.089781957511898
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.04546210179256
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   90.24027328951027
+ The derivative wrt direction 1 is [ 0.00000E+00]: 26.129478773732526
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.04546210179256
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -136.258499409535
+ The derivative wrt direction 1 is [ 0.00000E+00]: 17.330784568515906
+ The derivative wrt direction 2 is [ 0.00000E+00]: 53.10528366558157
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -136.258499409535
+ The derivative wrt direction 1 is [ 0.00000E+00]: 16.41404881978006
+ The derivative wrt direction 2 is [ 0.00000E+00]: 53.10528366558157
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -136.258499409535
+ The derivative wrt direction 1 is [ 0.00000E+00]: 17.330784568515906
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.7061348001220669
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -136.258499409535
+ The derivative wrt direction 1 is [ 0.00000E+00]: 16.41404881978006
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.7061348001220669
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -136.258499409535
+ The derivative wrt direction 1 is [ 0.00000E+00]: 21.719916942657118
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.7061348001220669
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   30]:    30
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   135.22964412578884
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.978632050660202
+ The derivative wrt direction 2 is [ 0.00000E+00]: 9.023937901262116
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   135.22964412578884
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.978632050660202
+ The derivative wrt direction 2 is [ 0.00000E+00]: -37.25789571646646
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   134.3140539423219
+ The derivative wrt direction 1 is [ 0.00000E+00]: 50.90087244067693
+ The derivative wrt direction 2 is [ 0.00000E+00]: 13.099974084022834
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   134.3140539423219
+ The derivative wrt direction 1 is [ 0.00000E+00]: 50.90087244067693
+ The derivative wrt direction 2 is [ 0.00000E+00]: -10.785122934041622
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -119.56409195280865
+ The derivative wrt direction 1 is [ 0.00000E+00]: 11.202877821978749
+ The derivative wrt direction 2 is [ 0.00000E+00]: 45.42142711705075
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -119.56409195280865
+ The derivative wrt direction 1 is [ 0.00000E+00]: 11.202877821978749
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.945354503198052
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   31]:    31
+ The number of versions for nj=1 is [1]: 6
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   150.7600280622362
+ The derivative wrt direction 1 is [ 0.00000E+00]: 27.165179205215544
+ The derivative wrt direction 2 is [ 0.00000E+00]: 21.922139173922936
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   150.7600280622362
+ The derivative wrt direction 1 is [ 0.00000E+00]: 27.165179205215544
+ The derivative wrt direction 2 is [ 0.00000E+00]: -8.623177566363905
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   150.7600280622362
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 21.922139173922936
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   150.7600280622362
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: -8.623177566363905
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   150.7600280622362
+ The derivative wrt direction 1 is [ 0.00000E+00]: -64.6500501957997
+ The derivative wrt direction 2 is [ 0.00000E+00]: 21.922139173922936
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 6: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   150.7600280622362
+ The derivative wrt direction 1 is [ 0.00000E+00]: 27.165179205215544
+ The derivative wrt direction 2 is [ 0.00000E+00]: -64.6500501957997
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 6
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   188.51385802348815
+ The derivative wrt direction 1 is [ 0.00000E+00]: 45.31262157315841
+ The derivative wrt direction 2 is [ 0.00000E+00]: 20.529310322885376
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   188.51385802348815
+ The derivative wrt direction 1 is [ 0.00000E+00]: 45.31262157315841
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.6965414367916725
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   188.51385802348815
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 20.529310322885376
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   188.51385802348815
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.6965414367916725
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   188.51385802348815
+ The derivative wrt direction 1 is [ 0.00000E+00]: -1.2468177001575824
+ The derivative wrt direction 2 is [ 0.00000E+00]: 20.529310322885376
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 6: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   188.51385802348815
+ The derivative wrt direction 1 is [ 0.00000E+00]: 45.31262157315841
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.2468177001575824
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 6
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -103.23532095526953
+ The derivative wrt direction 1 is [ 0.00000E+00]: 26.104344164778848
+ The derivative wrt direction 2 is [ 0.00000E+00]: 51.33773676892215
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -103.23532095526953
+ The derivative wrt direction 1 is [ 0.00000E+00]: 26.104344164778848
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.84028877840765
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -103.23532095526953
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 51.33773676892215
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -103.23532095526953
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.84028877840765
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -103.23532095526953
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.363761691314299
+ The derivative wrt direction 2 is [ 0.00000E+00]: 51.33773676892215
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 6: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -103.23532095526953
+ The derivative wrt direction 1 is [ 0.00000E+00]: 26.104344164778848
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.363761691314299
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   32]:    32
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   136.08466942176815
+ The derivative wrt direction 1 is [ 0.00000E+00]: -31.343684139560455
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.8997301260948074
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   136.08466942176815
+ The derivative wrt direction 1 is [ 0.00000E+00]: -31.343684139560455
+ The derivative wrt direction 2 is [ 0.00000E+00]: -52.00327241069732
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   238.47243957998214
+ The derivative wrt direction 1 is [ 0.00000E+00]: 37.887549757887555
+ The derivative wrt direction 2 is [ 0.00000E+00]: -8.264150343911107
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   238.47243957998214
+ The derivative wrt direction 1 is [ 0.00000E+00]: 37.887549757887555
+ The derivative wrt direction 2 is [ 0.00000E+00]: -5.230621152524519
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -72.23656497554293
+ The derivative wrt direction 1 is [ 0.00000E+00]: 16.964638666073277
+ The derivative wrt direction 2 is [ 0.00000E+00]: 57.068240890445374
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -72.23656497554293
+ The derivative wrt direction 1 is [ 0.00000E+00]: 16.964638666073277
+ The derivative wrt direction 2 is [ 0.00000E+00]: -10.001474638056749
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   33]:    33
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   91.20857420659027
+ The derivative wrt direction 1 is [ 0.00000E+00]: -40.28949196846464
+ The derivative wrt direction 2 is [ 0.00000E+00]: 9.836231695937318
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   91.20857420659027
+ The derivative wrt direction 1 is [ 0.00000E+00]: 40.28949196846464
+ The derivative wrt direction 2 is [ 0.00000E+00]: 9.836231695937318
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   91.20857420659027
+ The derivative wrt direction 1 is [ 0.00000E+00]: -40.28949196846464
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.0056308390497166
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   91.20857420659027
+ The derivative wrt direction 1 is [ 0.00000E+00]: 40.28949196846464
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.0056308390497166
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   91.20857420659027
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.573981128917185
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.0056308390497166
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   255.76629809248283
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.972799517268721
+ The derivative wrt direction 2 is [ 0.00000E+00]: -13.474405693330167
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   255.76629809248283
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.972799517268721
+ The derivative wrt direction 2 is [ 0.00000E+00]: -13.474405693330167
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   255.76629809248283
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.972799517268721
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.7444185425342748
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   255.76629809248283
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.972799517268721
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.7444185425342748
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   255.76629809248283
+ The derivative wrt direction 1 is [ 0.00000E+00]: 15.200548406560374
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.7444185425342748
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -69.58216421942521
+ The derivative wrt direction 1 is [ 0.00000E+00]: -8.789697481752746
+ The derivative wrt direction 2 is [ 0.00000E+00]: 61.40883562006125
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -69.58216421942521
+ The derivative wrt direction 1 is [ 0.00000E+00]: 8.789697481752746
+ The derivative wrt direction 2 is [ 0.00000E+00]: 61.40883562006125
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -69.58216421942521
+ The derivative wrt direction 1 is [ 0.00000E+00]: -8.789697481752746
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.1188802607013273
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -69.58216421942521
+ The derivative wrt direction 1 is [ 0.00000E+00]: 8.789697481752746
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.1188802607013273
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -69.58216421942521
+ The derivative wrt direction 1 is [ 0.00000E+00]: 7.957010658062633
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.1188802607013273
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   34]:    34
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   102.70068002662833
+ The derivative wrt direction 1 is [ 0.00000E+00]: -47.02345552197753
+ The derivative wrt direction 2 is [ 0.00000E+00]: -35.25002901487192
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   102.70068002662833
+ The derivative wrt direction 1 is [ 0.00000E+00]: -47.02345552197753
+ The derivative wrt direction 2 is [ 0.00000E+00]: 35.25002901487192
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   123.2403950997437
+ The derivative wrt direction 1 is [ 0.00000E+00]: 52.38559570164958
+ The derivative wrt direction 2 is [ 0.00000E+00]: -14.823963321267216
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   123.2403950997437
+ The derivative wrt direction 1 is [ 0.00000E+00]: 52.38559570164958
+ The derivative wrt direction 2 is [ 0.00000E+00]: 14.823963321267216
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -114.96878479070028
+ The derivative wrt direction 1 is [ 0.00000E+00]: 14.471442383967245
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.05087549853845852
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -114.96878479070028
+ The derivative wrt direction 1 is [ 0.00000E+00]: 14.471442383967245
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.05087549853845852
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   35]:    35
+ The number of versions for nj=1 is [1]: 4
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   80.64380398108295
+ The derivative wrt direction 1 is [ 0.00000E+00]: -55.67453316613296
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.3996027115427896
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   80.64380398108295
+ The derivative wrt direction 1 is [ 0.00000E+00]: 55.67453316613296
+ The derivative wrt direction 2 is [ 0.00000E+00]: 1.3996027115427896
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   80.64380398108295
+ The derivative wrt direction 1 is [ 0.00000E+00]: 7.933299979901021
+ The derivative wrt direction 2 is [ 0.00000E+00]: -55.67453316613296
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   80.64380398108295
+ The derivative wrt direction 1 is [ 0.00000E+00]: 7.933299979901021
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.67453316613296
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 4
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   185.32600776662616
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.536939134531108
+ The derivative wrt direction 2 is [ 0.00000E+00]: 31.821220697705183
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   185.32600776662616
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.536939134531108
+ The derivative wrt direction 2 is [ 0.00000E+00]: 31.821220697705183
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   185.32600776662616
+ The derivative wrt direction 1 is [ 0.00000E+00]: 51.396702486068854
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.536939134531108
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   185.32600776662616
+ The derivative wrt direction 1 is [ 0.00000E+00]: 51.396702486068854
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.536939134531108
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 4
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -106.9925687455862
+ The derivative wrt direction 1 is [ 0.00000E+00]: -3.8287003812414566
+ The derivative wrt direction 2 is [ 0.00000E+00]: 56.80176595020013
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -106.9925687455862
+ The derivative wrt direction 1 is [ 0.00000E+00]: 3.8287003812414566
+ The derivative wrt direction 2 is [ 0.00000E+00]: 56.80176595020013
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -106.9925687455862
+ The derivative wrt direction 1 is [ 0.00000E+00]: 16.49329639072943
+ The derivative wrt direction 2 is [ 0.00000E+00]: -3.8287003812414566
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -106.9925687455862
+ The derivative wrt direction 1 is [ 0.00000E+00]: 16.49329639072943
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.8287003812414566
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   36]:    36
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   86.7289876920942
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.888204690431089
+ The derivative wrt direction 2 is [ 0.00000E+00]: -43.13498349019803
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   86.7289876920942
+ The derivative wrt direction 1 is [ 0.00000E+00]: 5.888204690431089
+ The derivative wrt direction 2 is [ 0.00000E+00]: 43.13498349019803
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   228.8428746112231
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.31103847625983
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.5394513172597861
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   228.8428746112231
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.31103847625983
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.5394513172597861
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -84.10116620725468
+ The derivative wrt direction 1 is [ 0.00000E+00]: 19.41776833644909
+ The derivative wrt direction 2 is [ 0.00000E+00]: -6.907409843300977
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -84.10116620725468
+ The derivative wrt direction 1 is [ 0.00000E+00]: 19.41776833644909
+ The derivative wrt direction 2 is [ 0.00000E+00]: 6.907409843300977
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   37]:    37
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   68.66010376747305
+ The derivative wrt direction 1 is [ 0.00000E+00]: -78.29358904229464
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.5189110750605828
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   68.66010376747305
+ The derivative wrt direction 1 is [ 0.00000E+00]: -78.29358904229464
+ The derivative wrt direction 2 is [ 0.00000E+00]: 38.94464723873036
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   98.29493215291507
+ The derivative wrt direction 1 is [ 0.00000E+00]: 51.066999615941796
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.269734713535996
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   98.29493215291507
+ The derivative wrt direction 1 is [ 0.00000E+00]: 51.066999615941796
+ The derivative wrt direction 2 is [ 0.00000E+00]: 24.723392458321452
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -117.87463273793794
+ The derivative wrt direction 1 is [ 0.00000E+00]: 19.228953020209023
+ The derivative wrt direction 2 is [ 0.00000E+00]: 62.85697028822889
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -117.87463273793794
+ The derivative wrt direction 1 is [ 0.00000E+00]: 19.228953020209023
+ The derivative wrt direction 2 is [ 0.00000E+00]: 3.6610940984913993
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   38]:    38
+ The number of versions for nj=1 is [1]: 6
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   31.327469697159174
+ The derivative wrt direction 1 is [ 0.00000E+00]: 9.390240731420082
+ The derivative wrt direction 2 is [ 0.00000E+00]: 8.862784161436068
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   31.327469697159174
+ The derivative wrt direction 1 is [ 0.00000E+00]: 9.390240731420082
+ The derivative wrt direction 2 is [ 0.00000E+00]: 9.078495596385409
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   31.327469697159174
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 8.862784161436068
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   31.327469697159174
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 9.078495596385409
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   31.327469697159174
+ The derivative wrt direction 1 is [ 0.00000E+00]: 49.57776075324203
+ The derivative wrt direction 2 is [ 0.00000E+00]: 8.862784161436068
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 6: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   31.327469697159174
+ The derivative wrt direction 1 is [ 0.00000E+00]: 9.390240731420082
+ The derivative wrt direction 2 is [ 0.00000E+00]: 49.57776075324203
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 6
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   184.95090945808144
+ The derivative wrt direction 1 is [ 0.00000E+00]: 63.33534812153281
+ The derivative wrt direction 2 is [ 0.00000E+00]: 47.80215803250602
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   184.95090945808144
+ The derivative wrt direction 1 is [ 0.00000E+00]: 63.33534812153281
+ The derivative wrt direction 2 is [ 0.00000E+00]: -4.568415820905846
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   184.95090945808144
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 47.80215803250602
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   184.95090945808144
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: -4.568415820905846
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   184.95090945808144
+ The derivative wrt direction 1 is [ 0.00000E+00]: -2.604773463275418
+ The derivative wrt direction 2 is [ 0.00000E+00]: 47.80215803250602
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 6: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   184.95090945808144
+ The derivative wrt direction 1 is [ 0.00000E+00]: 63.33534812153281
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.604773463275418
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 6
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -113.17601205880241
+ The derivative wrt direction 1 is [ 0.00000E+00]: 13.588085774237486
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.79033472021507
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -113.17601205880241
+ The derivative wrt direction 1 is [ 0.00000E+00]: 13.588085774237486
+ The derivative wrt direction 2 is [ 0.00000E+00]: 73.02772815813078
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -113.17601205880241
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.79033472021507
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -113.17601205880241
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.0
+ The derivative wrt direction 2 is [ 0.00000E+00]: 73.02772815813078
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -113.17601205880241
+ The derivative wrt direction 1 is [ 0.00000E+00]: 11.977653278546965
+ The derivative wrt direction 2 is [ 0.00000E+00]: 55.79033472021507
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 6: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -113.17601205880241
+ The derivative wrt direction 1 is [ 0.00000E+00]: 13.588085774237486
+ The derivative wrt direction 2 is [ 0.00000E+00]: 11.977653278546965
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   39]:    39
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   50.62682562467764
+ The derivative wrt direction 1 is [ 0.00000E+00]: 28.332967745310736
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.398523059323889
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   50.62682562467764
+ The derivative wrt direction 1 is [ 0.00000E+00]: 28.332967745310736
+ The derivative wrt direction 2 is [ 0.00000E+00]: 37.4674421945186
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   230.8803783594722
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.03827163411634
+ The derivative wrt direction 2 is [ 0.00000E+00]: -4.367235321945772
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   230.8803783594722
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.03827163411634
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.4167902693691756
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -89.34879759027808
+ The derivative wrt direction 1 is [ 0.00000E+00]: 22.679201027880133
+ The derivative wrt direction 2 is [ 0.00000E+00]: 67.3412846919033
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -89.34879759027808
+ The derivative wrt direction 1 is [ 0.00000E+00]: 22.679201027880133
+ The derivative wrt direction 2 is [ 0.00000E+00]: 5.539250095542085
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   40]:    40
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   165.8634440818657
+ The derivative wrt direction 1 is [ 0.00000E+00]: -27.161213387402817
+ The derivative wrt direction 2 is [ 0.00000E+00]: -13.36682397568219
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   165.8634440818657
+ The derivative wrt direction 1 is [ 0.00000E+00]: -78.95137704510088
+ The derivative wrt direction 2 is [ 0.00000E+00]: -13.36682397568219
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   114.86329644881978
+ The derivative wrt direction 1 is [ 0.00000E+00]: 42.197542151268735
+ The derivative wrt direction 2 is [ 0.00000E+00]: 42.06218546702999
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   114.86329644881978
+ The derivative wrt direction 1 is [ 0.00000E+00]: -14.908592841527069
+ The derivative wrt direction 2 is [ 0.00000E+00]: 42.06218546702999
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -63.33262433170688
+ The derivative wrt direction 1 is [ 0.00000E+00]: -3.4396709005303676
+ The derivative wrt direction 2 is [ 0.00000E+00]: 62.87309211002034
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -63.33262433170688
+ The derivative wrt direction 1 is [ 0.00000E+00]: 22.16063377088939
+ The derivative wrt direction 2 is [ 0.00000E+00]: 62.87309211002034
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   41]:    41
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   145.22224082902696
+ The derivative wrt direction 1 is [ 0.00000E+00]: -11.084167126452718
+ The derivative wrt direction 2 is [ 0.00000E+00]: 8.05527961289579
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   150.94850158006193
+ The derivative wrt direction 1 is [ 0.00000E+00]: 44.38553550743264
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.130211502395893
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -60.78440052548502
+ The derivative wrt direction 1 is [ 0.00000E+00]: 7.316710620438695
+ The derivative wrt direction 2 is [ 0.00000E+00]: 54.01269824193548
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   42]:    42
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   158.37348778252513
+ The derivative wrt direction 1 is [ 0.00000E+00]: 3.91690636832436
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.917385655793584
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   192.54872593895274
+ The derivative wrt direction 1 is [ 0.00000E+00]: 38.597860453489055
+ The derivative wrt direction 2 is [ 0.00000E+00]: -1.7207937539064564
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -46.171255541166325
+ The derivative wrt direction 1 is [ 0.00000E+00]: 12.255826589949136
+ The derivative wrt direction 2 is [ 0.00000E+00]: 73.00642479580142
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   43]:    43
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   134.8036479747711
+ The derivative wrt direction 1 is [ 0.00000E+00]: -28.635066947613062
+ The derivative wrt direction 2 is [ 0.00000E+00]: -5.463489934619531
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   231.2082716945956
+ The derivative wrt direction 1 is [ 0.00000E+00]: 25.001870234687
+ The derivative wrt direction 2 is [ 0.00000E+00]: -9.670236237674569
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -32.79500987176981
+ The derivative wrt direction 1 is [ 0.00000E+00]: 10.543090675233326
+ The derivative wrt direction 2 is [ 0.00000E+00]: 44.20705801692576
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   44]:    44
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   102.46392945241638
+ The derivative wrt direction 1 is [ 0.00000E+00]: -30.798642476428274
+ The derivative wrt direction 2 is [ 0.00000E+00]: 13.689390386288773
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   102.46392945241638
+ The derivative wrt direction 1 is [ 0.00000E+00]: 30.798642476428274
+ The derivative wrt direction 2 is [ 0.00000E+00]: 13.689390386288773
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   241.7609832506599
+ The derivative wrt direction 1 is [ 0.00000E+00]: -4.542721687511526
+ The derivative wrt direction 2 is [ 0.00000E+00]: -16.417856417120074
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   241.7609832506599
+ The derivative wrt direction 1 is [ 0.00000E+00]: 4.542721687511526
+ The derivative wrt direction 2 is [ 0.00000E+00]: -16.417856417120074
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -26.308365203741435
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.2827066371384459
+ The derivative wrt direction 2 is [ 0.00000E+00]: 36.1285270186215
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -26.308365203741435
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.2827066371384459
+ The derivative wrt direction 2 is [ 0.00000E+00]: 36.1285270186215
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   45]:    45
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   97.72171488085914
+ The derivative wrt direction 1 is [ 0.00000E+00]: -52.70855895443096
+ The derivative wrt direction 2 is [ 0.00000E+00]: 39.3492241127392
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   122.82886269005263
+ The derivative wrt direction 1 is [ 0.00000E+00]: 39.607083607000575
+ The derivative wrt direction 2 is [ 0.00000E+00]: 34.67753017618891
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -40.873370631951744
+ The derivative wrt direction 1 is [ 0.00000E+00]: 20.578327064481115
+ The derivative wrt direction 2 is [ 0.00000E+00]: 52.50920676668703
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   46]:    46
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   61.58783396639969
+ The derivative wrt direction 1 is [ 0.00000E+00]: -5.385768996469853
+ The derivative wrt direction 2 is [ 0.00000E+00]: 56.76559477322846
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   182.32716791201497
+ The derivative wrt direction 1 is [ 0.00000E+00]: 59.15778528753249
+ The derivative wrt direction 2 is [ 0.00000E+00]: 7.365866320106531
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -26.71243331136172
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.2841373209648265
+ The derivative wrt direction 2 is [ 0.00000E+00]: 65.47556162105037
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   47]:    47
+ The number of versions for nj=1 is [1]: 1
+ The Xj(1) coordinate is [ 0.00000E+00]:   73.36222732651966
+ The derivative wrt direction 1 is [ 0.00000E+00]: 21.104074452041726
+ The derivative wrt direction 2 is [ 0.00000E+00]: 36.767775677328956
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 1
+ The Xj(2) coordinate is [ 0.00000E+00]:   225.24290870496424
+ The derivative wrt direction 1 is [ 0.00000E+00]: 26.18987476662441
+ The derivative wrt direction 2 is [ 0.00000E+00]: -6.633894955750327
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 1
+ The Xj(3) coordinate is [ 0.00000E+00]:   -27.056997988912016
+ The derivative wrt direction 1 is [ 0.00000E+00]: -1.0716720196972278
+ The derivative wrt direction 2 is [ 0.00000E+00]: 52.06150527224851
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   48]:    48
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   140.30675676218226
+ The derivative wrt direction 1 is [ 0.00000E+00]: -11.027417230654777
+ The derivative wrt direction 2 is [ 0.00000E+00]: -24.917347783170847
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   140.30675676218226
+ The derivative wrt direction 1 is [ 0.00000E+00]: -11.027417230654777
+ The derivative wrt direction 2 is [ 0.00000E+00]: 24.917347783170847
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   140.30675676218226
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.4800110582326148
+ The derivative wrt direction 2 is [ 0.00000E+00]: -24.917347783170847
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   140.30675676218226
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.4800110582326148
+ The derivative wrt direction 2 is [ 0.00000E+00]: 24.917347783170847
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   140.30675676218226
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.4800110582326148
+ The derivative wrt direction 2 is [ 0.00000E+00]: -11.027417230654777
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   151.17830215631358
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.13223895399338
+ The derivative wrt direction 2 is [ 0.00000E+00]: -10.2673053980995
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   151.17830215631358
+ The derivative wrt direction 1 is [ 0.00000E+00]: 34.13223895399338
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.2673053980995
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   151.17830215631358
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.32796557219231337
+ The derivative wrt direction 2 is [ 0.00000E+00]: -10.2673053980995
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   151.17830215631358
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.32796557219231337
+ The derivative wrt direction 2 is [ 0.00000E+00]: 10.2673053980995
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   151.17830215631358
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.32796557219231337
+ The derivative wrt direction 2 is [ 0.00000E+00]: 34.13223895399338
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -22.894327748184345
+ The derivative wrt direction 1 is [ 0.00000E+00]: 35.612866266713034
+ The derivative wrt direction 2 is [ 0.00000E+00]: 17.692071171309752
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -22.894327748184345
+ The derivative wrt direction 1 is [ 0.00000E+00]: 35.612866266713034
+ The derivative wrt direction 2 is [ 0.00000E+00]: -17.692071171309752
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -22.894327748184345
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.30883139867375586
+ The derivative wrt direction 2 is [ 0.00000E+00]: 17.692071171309752
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -22.894327748184345
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.30883139867375586
+ The derivative wrt direction 2 is [ 0.00000E+00]: -17.692071171309752
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   -22.894327748184345
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.30883139867375586
+ The derivative wrt direction 2 is [ 0.00000E+00]: 35.612866266713034
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   49]:    49
+ The number of versions for nj=1 is [1]: 2
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   135.0489859311832
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.502663700887126
+ The derivative wrt direction 2 is [ 0.00000E+00]: -69.50179066501931
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   135.0489859311832
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.502663700887126
+ The derivative wrt direction 2 is [ 0.00000E+00]: 69.50179066501931
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 2
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   190.62886749313157
+ The derivative wrt direction 1 is [ 0.00000E+00]: 41.036655236530635
+ The derivative wrt direction 2 is [ 0.00000E+00]: 0.20902228496915143
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   190.62886749313157
+ The derivative wrt direction 1 is [ 0.00000E+00]: 41.036655236530635
+ The derivative wrt direction 2 is [ 0.00000E+00]: -0.20902228496915143
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 2
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   8.844543958051224
+ The derivative wrt direction 1 is [ 0.00000E+00]: 2.8486643674343575
+ The derivative wrt direction 2 is [ 0.00000E+00]: 12.408608460221936
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   8.844543958051224
+ The derivative wrt direction 1 is [ 0.00000E+00]: 2.8486643674343575
+ The derivative wrt direction 2 is [ 0.00000E+00]: -12.408608460221936
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+
+ Node number [   50]:    50
+ The number of versions for nj=1 is [1]: 5
+ For version number 1: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   118.9224301913252
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.273304012596688
+ The derivative wrt direction 2 is [ 0.00000E+00]: -35.07267686380217
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   118.9224301913252
+ The derivative wrt direction 1 is [ 0.00000E+00]: -13.273304012596688
+ The derivative wrt direction 2 is [ 0.00000E+00]: 35.07267686380217
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   118.9224301913252
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.13530984678623592
+ The derivative wrt direction 2 is [ 0.00000E+00]: -35.07267686380217
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   118.9224301913252
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.13530984678623592
+ The derivative wrt direction 2 is [ 0.00000E+00]: 35.07267686380217
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(1) coordinate is [ 0.00000E+00]:   118.9224301913252
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.13530984678623592
+ The derivative wrt direction 2 is [ 0.00000E+00]: 13.273304012596688
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=2 is [1]: 5
+ For version number 1: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   221.88238006491304
+ The derivative wrt direction 1 is [ 0.00000E+00]: 21.651586121382753
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.9818405636352767
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   221.88238006491304
+ The derivative wrt direction 1 is [ 0.00000E+00]: 21.651586121382753
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.9818405636352767
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   221.88238006491304
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.1254644104757862
+ The derivative wrt direction 2 is [ 0.00000E+00]: -2.9818405636352767
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   221.88238006491304
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.1254644104757862
+ The derivative wrt direction 2 is [ 0.00000E+00]: 2.9818405636352767
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(2) coordinate is [ 0.00000E+00]:   221.88238006491304
+ The derivative wrt direction 1 is [ 0.00000E+00]: -0.1254644104757862
+ The derivative wrt direction 2 is [ 0.00000E+00]: -21.651586121382753
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ The number of versions for nj=3 is [1]: 5
+ For version number 1: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   0.7107765170839127
+ The derivative wrt direction 1 is [ 0.00000E+00]: -15.403069298529319
+ The derivative wrt direction 2 is [ 0.00000E+00]: 5.6059362708231495
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 2: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   0.7107765170839127
+ The derivative wrt direction 1 is [ 0.00000E+00]: -15.403069298529319
+ The derivative wrt direction 2 is [ 0.00000E+00]: -5.6059362708231495
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 3: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   0.7107765170839127
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.2054530562042968
+ The derivative wrt direction 2 is [ 0.00000E+00]: 5.6059362708231495
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 4: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   0.7107765170839127
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.2054530562042968
+ The derivative wrt direction 2 is [ 0.00000E+00]: -5.6059362708231495
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
+ For version number 5: 
+ The Xj(3) coordinate is [ 0.00000E+00]:   0.7107765170839127
+ The derivative wrt direction 1 is [ 0.00000E+00]: 0.2054530562042968
+ The derivative wrt direction 2 is [ 0.00000E+00]: 15.403069298529319
+ The derivative wrt directions 1 & 2 is [ 0.00000E+00]: 0.0
